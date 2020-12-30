@@ -22,4 +22,4 @@
 
 **_Basic of HTML_**
 
-## pdixit.learn-html.io/basic-tags.html
+**_pdixit.learn-html.io/basic-tags.html_**
